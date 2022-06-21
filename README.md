@@ -2,8 +2,7 @@
 
 ## Overview
 
-In this project I build a Mixed Martial Arts Fight Predictor from the ground up, i.e.
-from scraping data to evaluating a model.
+In this project I build a simple Speaker Identifier by using kNN. Also in the future I will keep there more approaches for this problem.
 
 ## Manual
 
